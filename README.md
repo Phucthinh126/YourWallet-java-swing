@@ -23,10 +23,10 @@
 
 **Dựa theo mô hình MVC**
 
-**_🖥️App_** -- Mô phỏng hệ thống - `App`:
-**_📂Controller_** -- Xử lý logic - `ExpenceController`: xử lý logic về button - `LoginController`: xử lý logic đăng nhập
-**_📁model_** -- Chứa Thông tin - `User`: thông tin đăng nhập của người dùng
-**_🗂️View_** -- Giao diện người dùng - `LoginFrame`: Giao diện đăng nhập - `MainFrame`: giao diện chính của ứng dụng
+-🖥️App -- Mô phỏng hệ thống - `App`:
+-📂Controller -- Xử lý logic - `ExpenceController`: xử lý logic về button - `LoginController`: xử lý logic đăng nhập
+-📁model -- Chứa Thông tin - `User`: thông tin đăng nhập của người dùng
+-🗂️View -- Giao diện người dùng - `LoginFrame`: Giao diện đăng nhập - `MainFrame`: giao diện chính của ứng dụng
 
 ## Hướng dẫn chạy
 
@@ -37,4 +37,4 @@
    mật khẩu admin126
 4. Nạp tiền vào tài khoản --> nhấn button 'cập nhật'
 5. Thực hiện thêm giao dịch --> nhấn button 'thêm giao dịch'
-6. Nhấn button 'Xem tổng đã chi tiêu' để xem số tiền còn lại 
+6. Nhấn button 'Xem tổng đã chi tiêu' để xem số tiền còn lại
