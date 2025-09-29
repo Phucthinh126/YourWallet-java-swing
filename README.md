@@ -23,10 +23,16 @@
 
 **Dựa theo mô hình MVC**
 
--🖥️App -- Mô phỏng hệ thống - `App`:
--📂Controller -- Xử lý logic - `ExpenceController`: xử lý logic về button - `LoginController`: xử lý logic đăng nhập
--📁model -- Chứa Thông tin - `User`: thông tin đăng nhập của người dùng
--🗂️View -- Giao diện người dùng - `LoginFrame`: Giao diện đăng nhập - `MainFrame`: giao diện chính của ứng dụng
+-🖥️App -- Mô phỏng hệ thống:
+`App`:
+-📂Controller -- Xử lý logic:
+`ExpenceController`: xử lý logic về button
+`LoginController`: xử lý logic đăng nhập
+-📁model -- Chứa Thông tin:
+`User`: thông tin đăng nhập của người dùng
+-🗂️View -- Giao diện người dùng
+`LoginFrame`: Giao diện đăng nhập
+`MainFrame`: giao diện chính của ứng dụng
 
 ## Hướng dẫn chạy
 
